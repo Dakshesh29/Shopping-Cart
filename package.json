@@ -1,6 +1,7 @@
 {
   "name": "shopping-cart",
   "version": "1.0.0",
+  "description": "A basic React shopping cart app",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -11,14 +12,18 @@
     "type": "git",
     "url": "git+https://github.com/Dakshesh29/Shopping-Cart.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "shopping-cart",
+    "webpack",
+    "babel"
+  ],
+  "author": "Dakshesh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dakshesh29/Shopping-Cart/issues"
   },
   "homepage": "https://github.com/Dakshesh29/Shopping-Cart#readme",
-  "description": "",
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^19.1.0",
